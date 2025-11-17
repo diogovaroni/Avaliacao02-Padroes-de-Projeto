@@ -116,6 +116,6 @@ Copiar código
 ---
 
 ## ▶️ Como executar
-Abra qualquer exercício e execute a classe `Main` correspondente.
+Abra qualquer exercício e depois execute a classe `Main` correspondente.
 
 ---
